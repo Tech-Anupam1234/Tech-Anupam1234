@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Anupam Yadav Software Engineer Intern,<br>Currently pursuing Bachelor of Technology in Computer Science and Engineering Branch.<br>Deep knowledge of Core Java, Web Development (HTML, CSS, JavaScript),<br>Better understanding of Data Structure and Algorithm.<br>Framework: Collection Framework, Spring Boot<br>Database: MySQL, Oracle, SQLite<br>Server : Tomcat Server<br>Tools And IDE: Visual Studio Code, Eclipse IDE, Apache NetBeans
+I'm Anupam Yadav Java Fullstack Developer. <br> Deep knowledge of Core Java, Web Development (HTML, CSS, JavaScript),<br>Better understanding of Data Structure and Algorithm.<br>Framework: Collection Framework, Spring Boot<br>Database: MySQL, Oracle, SQLite<br>Server : Tomcat Server<br>Tools And IDE: Visual Studio Code, Eclipse IDE, Apache NetBeans
 
 
 ## 🌐 Socials:
